@@ -43,6 +43,10 @@ To use the blindstick, turn on the device and hold it in front of you as you wal
 
 https://user-images.githubusercontent.com/117660150/230647097-50f9051b-c16c-4b78-a663-f73353126cec.mp4
 
+https://user-images.githubusercontent.com/117660150/230647896-cc636eaa-b8cb-4b92-8c07-773838546c62.mp4
+
+![Circuit Diagram](https://user-images.githubusercontent.com/117660150/230648154-f76dd2bf-0b1c-4fd7-8992-133a07b801bf.jpeg)
+
 
 ## Conclusion
 The blindstick with ultrasonic sensor is a simple and effective device that can provide assistance to blind people in navigating their surroundings more easily. By using both auditory and tactile feedback, the device can help blind individuals become more independent and improve their quality of life.
